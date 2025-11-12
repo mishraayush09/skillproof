@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 /**
- * @title SkillProof
+ * @titles SkillProof
  * @dev A simple contract for decentralized skill verification.
  */
 contract SkillProof {

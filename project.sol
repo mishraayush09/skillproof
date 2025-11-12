@@ -9,7 +9,7 @@ contract SkillProof {
     struct Skill {
         string name;
         string issuer;
-        uint256 dateIssued;
+        uint256 dateIssued; 
         bool verified;
     }
 

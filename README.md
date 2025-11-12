@@ -1,12 +1,12 @@
 # SkillProof
 
-### 📌 Project Description
+## 📌 Project Description
 SkillProof is a decentralized platform for **skill verification and credential tracking**.  
 It allows users to add skills, and trusted issuers to verify them directly on the blockchain — ensuring transparency, authenticity, and ownership of professional achievements.
 
 ---
 
-### 🌍 Project Vision
+## 🌍 Project Vision
 To create a **trustless, tamper-proof ecosystem** where skills and certifications can be validated without intermediaries — empowering professionals and simplifying hiring and reputation management globally.
 
 ---

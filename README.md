@@ -12,8 +12,8 @@ To create a **trustless, tamper-proof ecosystem** where skills and certification
 ---
 
 ### ⚙️ Key Features
-- **Add Skill:** Users can record a new skill and its issuer.
-- **Verify Skill:** Issuers can validate skills directly on-chain.
+- **Add Skill:** Users can record a new skills and its issuer.
+- **Verify Skill:** Issuers can validate skill directly on-chain.
 - **View Skills:** Anyone can view a user's verified and unverified skills.
 - **Transparency:** All records are public and immutable on the blockchain.
 
@@ -34,6 +34,6 @@ To create a **trustless, tamper-proof ecosystem** where skills and certification
 - **Ethereum / Polygon** (Deployment Network)
 - **IPFS / Filecoin** (Decentralized Storage)
 # skillproof
-SkillProof is a decentralized skill verification platform built on Ethereum. It allows users to record, verify, and showcase professional skills securely on the blockchain — ensuring trust, authenticity, and ownership of digital credentials.
+SkillProofs is a decentralized skill verification platform built on Ethereum. It allows users to record, verify, and showcase professional skills securely on the blockchain — ensuring trust, authenticity, and ownership of digital credentials.
 
 <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/7b253120-ef4e-4cc4-a526-47d5c08c1d90" />

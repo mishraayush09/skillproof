@@ -15,7 +15,7 @@ To create a **trustless, tamper-proof ecosystem** where skills and certification
 - **Add Skill:** Users can record a new skills and its issuer.
 - **Verify Skill:** Issuers can validate skill directly on-chain.
 - **View Skills:** Anyone can view a user's verified and unverified skills.
-- **Transparency:** All records are public and immutable on the blockchain.
+- **Transparency:** All records  are public and immutable on the blockchain.
 
 ---
 

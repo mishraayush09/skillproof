@@ -13,7 +13,7 @@ contract SkillProof {
         bool verified;
     }
 
-    mapping(address => Skill[]) private userSkills;
+    mapping(address => Skill[]) private userSkills; 
 
     event SkillAdded(address indexed user, string skillName, string issuer);
     event SkillVerified(address indexed user, string skillName);
